@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-image: url(img/penguin/penguin-02.png);
+  background-image: url(penguin-02.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
